@@ -23,12 +23,12 @@
 hs_err_pid*
 
 ### ECLIPSE ###
-mvnw
-mvnw.cmd
+##mvnw
+##mvnw.cmd
 
 
 .project
 .classpath
 /target
 /.settings
-/.mvn
+##/.mvn
